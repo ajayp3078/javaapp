@@ -3,6 +3,6 @@
 <h1>This is java web app</h1>
 <p>In this we are going to deploy things manually</p>
 <a href="about.jsp">About page</a>
-<a href="services.jsp"></a>
+<a href="services.jsp">Services page</a>
 </body>
 </html>
