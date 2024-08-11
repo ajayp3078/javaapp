@@ -9,6 +9,6 @@
 <hr>
 
 <h1>This is new line added</h1>
-<h1>This is again new line</h1>
+<h1>This is another new line</h1>
 </body>
 </html>
